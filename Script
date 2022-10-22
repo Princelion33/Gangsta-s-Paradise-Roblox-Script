@@ -380,7 +380,7 @@ game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageReque
 
 wait(3)
 local args = {
-    [1] = "TThat the ones we hurt, are you and me?",
+    [1] = "That the ones we hurt, are you and me?",
     [2] = "All"
 }
 
